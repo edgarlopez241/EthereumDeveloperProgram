@@ -1,0 +1,8 @@
+/@openzeppelin
+/EthereumDeveloperProgram
+/contratoInteligente/artifacts
+/contratoInteligente/cache
+/counter/artifacts
+/counter/node_modules
+/PokemonFactory/artifacts
+PokemonFactory/node_modules
