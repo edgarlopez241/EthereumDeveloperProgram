@@ -5,4 +5,5 @@
 /counter/artifacts
 /counter/node_modules
 /PokemonFactory/artifacts
-PokemonFactory/node_modules
+/PokemonFactory/node_modules
+/**/node_modules
